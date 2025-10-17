@@ -19,7 +19,7 @@
     Author: SCCM Admin Team
     Version: 3.0
     Requires: SCCM Console installed, Administrative privileges
-    GitHub: https://github.com/yourusername/sccm-dp-sync
+  
 #>
 
 [CmdletBinding()]
